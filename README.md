@@ -1,1 +1,1 @@
-# October-Qwiklabs-Solution
+# Qwiklabs-Solution
